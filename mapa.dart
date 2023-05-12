@@ -1,9 +1,9 @@
 void main() {
   Map<int, String> codigo = {
     11: "São Paulo",
-    11: "campinas",
-    11: "Curitiba",
-    11: "Ivaiporã",
+    1: "campinas",
+    113: "Curitiba",
+    131: "Ivaiporã",
   };
   print(codigo[11]);
   print(codigo.length); //retorna a quantidade de itens
